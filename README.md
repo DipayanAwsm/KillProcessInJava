@@ -34,4 +34,4 @@ java -cp OS.jar com.dipayan.main.CS1726MainOS
 
 ===============================================================================
 /*Software Walk Through*/
-1. in command $java -cp OS.jar 
+1. in command $java -cp OS.jar com.dipayan.main.CS1726MainOS 
