@@ -12,7 +12,7 @@
 ===============================================================================
 /*Requirements*/
 
-this Software is made to kill a process and all its suvsequent child processes.
+this Software is made to kill a process and all its child processes.
 
 
 ===============================================================================
